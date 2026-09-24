@@ -11,7 +11,8 @@ A software failure I've personally done was creating a mod for a game called Min
 
 
 ## Task 2
-## The Four Process Activities: RetailSync Case Study
+The Four Process Activities: RetailSync Case Study
+
 Kickoff - Missing Proper **Specification**, No Documentation, Only an hour long meeting
 
 Development - **Development** was present, No Communication/**Validations**
@@ -23,3 +24,14 @@ Testing - Only 2 Day testing, No test cases, Moderate **Development** in fixing 
 Go-Live - **Evolution** present
 
 My View on which single failure did the most damage was during Kick Off as lead developer should've documented and lead the team properly, set guidelines and communicate regularly 
+
+
+## Task 3
+Researching a Software Failure
+
+On January 15, 1990, AT&T suffered a massive long distance network collapse that lasted roughly 9 hours, The outrage disrupted approximately 70 million calls, resulting in 60 million dollar in lost company revenue.
+What happened was a recent software update designed to speed up switch recovery introducied a sutble logic srror a do-while loop. When a switch in New York overloaded and reset itself, it sent a recovery signal to an adjacent switch. Because of a misplaced break statement, the receiving switch mistimed the message, bypassed a critical data-clearing step, and crashed. This triggered a rapid, cascading loop across 114 interconnected switches nationwide, effectively crippling the national phone grid.
+
+The Failure can be linked to Validation because it wasn't tested properly. It can also be linked to Evolution, because them updating it caused the problem.
+
+https://www.latimes.com/archives/la-xpm-1990-01-17-fi-212-story.html
