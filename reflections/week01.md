@@ -35,3 +35,13 @@ What happened was a recent software update designed to speed up switch recovery 
 The Failure can be linked to Validation because it wasn't tested properly. It can also be linked to Evolution, because them updating it caused the problem.
 
 https://www.latimes.com/archives/la-xpm-1990-01-17-fi-212-story.html
+
+
+## Task 4
+Is There Still a Software Crisis?
+
+1968/69 NATO Software Engineering Conferences were held in Garmisch, Germany and Rome, Italy repectfully
+
+The 1960s "software crisis" characterized by projects running over budget, running late, and being riddled with bugs, absolutely still exists today, though it has evolved. While tools and methodologies have advanced, the staggering scale and interconnectedness of modern software have amplified the stakes. 
+The 2024 CrowdStrike outage serves as definitive evidence. Instead of a single standalone system failing, a lone faulty update automatically pushed to millions of machines caused a global cascade. It grounded thousands of commercial flights, paralyzed bank transactions, and disrupted hospital systems worldwide overnight. 
+This modern iteration proves that while we can write code faster, our dependency on monolithic cloud infrastructures means human error now yields systemic, global vulnerabilities. The fundamental challenge of the software crisis remains: building software that is completely reliable at scale is an unsolved problem.
