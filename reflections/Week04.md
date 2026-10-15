@@ -37,7 +37,6 @@ Notifications identify which class has changed.
 Students do not receive timetable change notifications for classes they are not enrolled in.
 
 # Task 3
-Task 3: Continuous Integration (CI)
 
 Continuous Integration is an XP practice where developers frequently merge their code into a shared codebase and run automated builds and tests to identify problems early. It helps prevent “integration hell”, where separately developed features become difficult to combine, and its main benefits are early defect detection and reduced integration effort. However, CI can be challenging to maintain because automated tests may be unreliable (flaky) or pipelines may take too long to run.
 
